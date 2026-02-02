@@ -1,8 +1,10 @@
 <?php
+
 $host = "localhost";
-$user = "root";
-$pass = "";
-$db   = "practica_web";
+$user = "M20031250";
+$pass = "edu123";
+$db   = "M20031250_db";
+
 
 $conexion = new mysqli($host, $user, $pass, $db);
 
